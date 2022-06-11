@@ -1,0 +1,20 @@
+Link para download : https://git-scm.com/downloads
+
+Comandos para configurar chave ssh:
+
+	git config --global user.name SEUNOME
+	git config –-global user.email SEUEMAIL
+	
+	ssh-keygen - ed25519 -c SEUEMAIL
+
+	C:\Users\simao\.ssh (repositorio que ficara salvo a sua chave, utilize sempre a chave publica)
+
+
+
+
+Dentro da pasta ssh
+	eval $(ssh-agent -s)
+
+	ssh-add (e coloque a chave publica)
+
+	
