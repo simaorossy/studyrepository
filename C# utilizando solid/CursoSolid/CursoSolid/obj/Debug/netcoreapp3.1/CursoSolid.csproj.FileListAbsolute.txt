@@ -1,0 +1,16 @@
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\CursoSolid.exe
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\CursoSolid.deps.json
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\CursoSolid.runtimeconfig.json
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\CursoSolid.runtimeconfig.dev.json
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\CursoSolid.dll
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\CursoSolid.pdb
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.AssemblyInfo.cs
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.csproj.CopyComplete
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.dll
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.pdb
+C:\Users\simao\source\repos\CursoSolid\CursoSolid\obj\Debug\netcoreapp3.1\CursoSolid.genruntimeconfig.cache

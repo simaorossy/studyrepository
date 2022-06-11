@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5LWJrCU9nZxDPxwxF8H3PwSUk6eAES6RMMdWOwRDRzi85+RmMvaDojnyDKU6d+1fFIHR860CD4BEzw4v3IuXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simao\\source\\repos\\CursoSolid\\CursoSolid\\CursoSolid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simao\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
