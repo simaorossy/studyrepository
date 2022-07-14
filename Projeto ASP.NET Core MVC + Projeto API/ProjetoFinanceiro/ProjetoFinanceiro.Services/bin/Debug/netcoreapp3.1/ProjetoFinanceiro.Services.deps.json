@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjetoFinanceiro.Services/1.0.0": {
+        "dependencies": {
+          "ProjetoFinanceiro.Domain": "1.0.0",
+          "ProjetoFinanceiro.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoFinanceiro.Services.dll": {}
+        }
+      },
+      "ProjetoFinanceiro.Domain/1.0.0": {
+        "runtime": {
+          "ProjetoFinanceiro.Domain.dll": {}
+        }
+      },
+      "ProjetoFinanceiro.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ProjetoFinanceiro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoFinanceiro.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoFinanceiro.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoFinanceiro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoFinanceiro.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

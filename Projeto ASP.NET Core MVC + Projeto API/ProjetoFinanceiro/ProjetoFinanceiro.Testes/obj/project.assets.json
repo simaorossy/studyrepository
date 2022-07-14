@@ -1,0 +1,473 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.Configuration/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.EnvironmentVariables/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.FileExtensions/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.13",
+          "Microsoft.Extensions.FileProviders.Physical": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.13",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.13": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Physical/3.1.13": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.1.13",
+          "Microsoft.Extensions.FileSystemGlobbing": "3.1.13"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll": {}
+        }
+      },
+      "Microsoft.Extensions.FileSystemGlobbing/3.1.13": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.13": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+        }
+      },
+      "ProjetoFinanceiro.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjetoFinanceiro.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoFinanceiro.Domain.dll": {}
+        }
+      },
+      "ProjetoFinanceiro.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ProjetoFinanceiro.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoFinanceiro.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoFinanceiro.Infrastructure.dll": {}
+        }
+      },
+      "ProjetoFinanceiro.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ProjetoFinanceiro.Domain": "1.0.0",
+          "ProjetoFinanceiro.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoFinanceiro.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoFinanceiro.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.Configuration/3.1.13": {
+      "sha512": "zuvjW34EpCfGrpDe6e9o/8xJ5idf2PnejmGiPjBQesdw32yBOaegTwLmPtoW70RUIYr58j8EDGf7yTaFSc6KXA==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
+        "microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+        "microsoft.extensions.configuration.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.13": {
+      "sha512": "WuU1zMRpNrRihLP0HAwm5rWqgdJUywESu3e38FDRsnx2V/FlN+tOf04bZNnimKmFfwF+wdsxlQjKBBye6EEOZw==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.EnvironmentVariables/3.1.13": {
+      "sha512": "kVrjXtRzP2hB5ku6Tt+Ei4lj2+MWF2RlImDXC7GKqQyvg0woq9GKYa44xWk37D+KyC1osnY1p0oUN36WbUnlmQ==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.environmentvariables/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.EnvironmentVariables.xml",
+        "microsoft.extensions.configuration.environmentvariables.3.1.13.nupkg.sha512",
+        "microsoft.extensions.configuration.environmentvariables.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.FileExtensions/3.1.13": {
+      "sha512": "3BghtPRGlXgNkTLI2o9kKgf7bG5F7F5YEUJ1nxvlG9Ri9udNTML9ItCpwQb+wX6Wgr8O9uFhlX7jD7oxBb8FRA==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.fileextensions/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.FileExtensions.xml",
+        "microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+        "microsoft.extensions.configuration.fileextensions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Json/3.1.13": {
+      "sha512": "BIU+aJDx3gSe9fE4CmAfUrz6X0mHpFB1hIyS9z1MZqpn7e49uTZ1AH8XOu09YVsK3ceIYNINjJ5tkAi5ANIyQw==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.json/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Json.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Json.xml",
+        "microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+        "microsoft.extensions.configuration.json.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.13": {
+      "sha512": "fhIfSffot+Vdi6oO5AeWte+dFJsdgGZ7nLiD7xstwUg3LjNHTPveI+6Rgiuq+XQFif3BboSa2024N/0he2pRsQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.3.1.13.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.13": {
+      "sha512": "MZ96CQknrbmfIc7Ga6UrToFS9Yb56A7mqLtbOay1WYlxqQFLusCUJ0NirUOJRvyUcDlXWF2BXkPz2qAJEZXLPQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.13.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.1.13": {
+      "sha512": "/sDiRV2TKE7hsgwsL+1w8Dz0Zu+41Dyu4zmO+PeYrdfBY5dXkE8kLKgRoVtg28LT6USJh0MLJtlzGco5bwc6bA==",
+      "type": "package",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.xml",
+        "microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+        "microsoft.extensions.fileproviders.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.FileProviders.Physical/3.1.13": {
+      "sha512": "k3GEtPSjvhd1/xlzt29e5pZWdbUHeG6swwizDgb0WGbOTUHnqU6xtM4r3RnlJLh7q5ZULT8+B51sssMXfk1xMQ==",
+      "type": "package",
+      "path": "microsoft.extensions.fileproviders.physical/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Physical.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Physical.xml",
+        "microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+        "microsoft.extensions.fileproviders.physical.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.FileSystemGlobbing/3.1.13": {
+      "sha512": "hqHzm/eljL8Kv7wRqGr7RtdJhwWge7+AzsuUOiDsylV3yDVZjyPYfdgvUc+AfGYRry+3DaKKFpEWkDptqkInyQ==",
+      "type": "package",
+      "path": "microsoft.extensions.filesystemglobbing/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.xml",
+        "microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+        "microsoft.extensions.filesystemglobbing.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/3.1.13": {
+      "sha512": "cZVp49xwQPVWs+utx6khnnECWQtkHaFXQnMg/odvy1RUumFUkO6h6C19fJd5zUclC4cS6aIfVJs7b1CDL1ep0A==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/3.1.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.3.1.13.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec"
+      ]
+    },
+    "ProjetoFinanceiro.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoFinanceiro.Domain/ProjetoFinanceiro.Domain.csproj",
+      "msbuildProject": "../ProjetoFinanceiro.Domain/ProjetoFinanceiro.Domain.csproj"
+    },
+    "ProjetoFinanceiro.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoFinanceiro.Infrastructure/ProjetoFinanceiro.Infrastructure.csproj",
+      "msbuildProject": "../ProjetoFinanceiro.Infrastructure/ProjetoFinanceiro.Infrastructure.csproj"
+    },
+    "ProjetoFinanceiro.Services/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoFinanceiro.Services/ProjetoFinanceiro.Services.csproj",
+      "msbuildProject": "../ProjetoFinanceiro.Services/ProjetoFinanceiro.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Extensions.Configuration >= 3.1.13",
+      "Microsoft.Extensions.Configuration.EnvironmentVariables >= 3.1.13",
+      "Microsoft.Extensions.Configuration.Json >= 3.1.13",
+      "Microsoft.Extensions.DependencyInjection >= 3.1.13",
+      "ProjetoFinanceiro.Domain >= 1.0.0",
+      "ProjetoFinanceiro.Infrastructure >= 1.0.0",
+      "ProjetoFinanceiro.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\simao\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Testes\\ProjetoFinanceiro.Testes.csproj",
+      "projectName": "ProjetoFinanceiro.Testes",
+      "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Testes\\ProjetoFinanceiro.Testes.csproj",
+      "packagesPath": "C:\\Users\\simao\\.nuget\\packages\\",
+      "outputPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Testes\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\simao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/employertec/Etec.Utils/_packaging/Etec.Utils/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj": {
+              "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj"
+            },
+            "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Infrastructure\\ProjetoFinanceiro.Infrastructure.csproj": {
+              "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Infrastructure\\ProjetoFinanceiro.Infrastructure.csproj"
+            },
+            "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj": {
+              "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[3.1.13, )"
+          },
+          "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+            "target": "Package",
+            "version": "[3.1.13, )"
+          },
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "[3.1.13, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[3.1.13, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

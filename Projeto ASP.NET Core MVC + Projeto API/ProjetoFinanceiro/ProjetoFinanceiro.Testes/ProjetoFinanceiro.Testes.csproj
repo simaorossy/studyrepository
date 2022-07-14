@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoFinanceiro.Domain\ProjetoFinanceiro.Domain.csproj" />
+    <ProjectReference Include="..\ProjetoFinanceiro.Infrastructure\ProjetoFinanceiro.Infrastructure.csproj" />
+    <ProjectReference Include="..\ProjetoFinanceiro.Services\ProjetoFinanceiro.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.13" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="3.1.13" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.13" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.13" />
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

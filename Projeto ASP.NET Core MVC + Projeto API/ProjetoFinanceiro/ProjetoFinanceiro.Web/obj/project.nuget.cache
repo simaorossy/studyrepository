@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gb/1gXoMtrSPhFGu7gEJg5mkfi1TjI6ah3OlsH9QgM/b7HHxI1ykmG4To4W7tw6Ear38p++DlhFqapk2a7otbA==",
+  "success": true,
+  "projectFilePath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Web\\ProjetoFinanceiro.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

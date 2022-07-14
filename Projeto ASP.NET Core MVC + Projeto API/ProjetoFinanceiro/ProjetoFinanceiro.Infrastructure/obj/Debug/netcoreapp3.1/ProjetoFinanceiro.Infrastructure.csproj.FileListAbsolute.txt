@@ -1,0 +1,26 @@
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.deps.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.AssemblyInfo.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.csproj.CopyComplete
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.deps.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.csproj.AssemblyReference.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.AssemblyInfoInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.AssemblyInfo.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.csproj.CopyComplete
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Infrastructure\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.pdb

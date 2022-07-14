@@ -1,0 +1,52 @@
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.exe
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.deps.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.runtimeconfig.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.runtimeconfig.dev.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.AssemblyInfo.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.csproj.CopyComplete
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.genruntimeconfig.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.exe
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.deps.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.runtimeconfig.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.runtimeconfig.dev.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Infrastructure.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.csproj.AssemblyReference.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.AssemblyInfoInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.AssemblyInfo.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.csproj.CoreCompileInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.csproj.CopyComplete
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Testes.genruntimeconfig.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Testes\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.pdb

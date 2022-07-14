@@ -1,0 +1,76 @@
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.exe
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.deps.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.runtimeconfig.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.runtimeconfig.dev.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.Views.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.Views.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.AssemblyInfo.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorAssemblyInfo.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorAssemblyInfo.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoFinanceiro.Web.StaticWebAssets.Manifest.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoFinanceiro.Web.StaticWebAssets.xml
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoFinanceiro.Web.styles.css
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.TagHelpers.input.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.TagHelpers.output.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorCoreGenerate.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorTargetAssemblyInfo.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorTargetAssemblyInfo.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.Views.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.genruntimeconfig.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.csproj.CopyComplete
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.exe
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.deps.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.runtimeconfig.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.runtimeconfig.dev.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.Views.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.Views.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.csproj.AssemblyReference.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.AssemblyInfoInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.AssemblyInfo.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.csproj.CoreCompileInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorAssemblyInfo.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorAssemblyInfo.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoFinanceiro.Web.StaticWebAssets.Manifest.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoFinanceiro.Web.StaticWebAssets.xml
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjetoFinanceiro.Web.styles.css
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.TagHelpers.input.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.TagHelpers.output.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorCoreGenerate.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorTargetAssemblyInfo.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.RazorTargetAssemblyInfo.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.Views.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.genruntimeconfig.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Web\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Web.csproj.CopyComplete

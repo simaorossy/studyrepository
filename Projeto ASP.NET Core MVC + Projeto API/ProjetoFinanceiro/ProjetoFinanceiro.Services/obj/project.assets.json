@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjetoFinanceiro.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjetoFinanceiro.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoFinanceiro.Domain.dll": {}
+        }
+      },
+      "ProjetoFinanceiro.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ProjetoFinanceiro.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjetoFinanceiro.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoFinanceiro.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoFinanceiro.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoFinanceiro.Domain/ProjetoFinanceiro.Domain.csproj",
+      "msbuildProject": "../ProjetoFinanceiro.Domain/ProjetoFinanceiro.Domain.csproj"
+    },
+    "ProjetoFinanceiro.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoFinanceiro.Infrastructure/ProjetoFinanceiro.Infrastructure.csproj",
+      "msbuildProject": "../ProjetoFinanceiro.Infrastructure/ProjetoFinanceiro.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ProjetoFinanceiro.Domain >= 1.0.0",
+      "ProjetoFinanceiro.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\simao\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj",
+      "projectName": "ProjetoFinanceiro.Services",
+      "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj",
+      "packagesPath": "C:\\Users\\simao\\.nuget\\packages\\",
+      "outputPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\simao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/employertec/Etec.Utils/_packaging/Etec.Utils/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj": {
+              "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj"
+            },
+            "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Infrastructure\\ProjetoFinanceiro.Infrastructure.csproj": {
+              "projectPath": "C:\\DISCO E\\Projeto git aulas\\studyrepository\\Projeto ASP.NET Core MVC + Projeto API\\ProjetoFinanceiro\\ProjetoFinanceiro.Infrastructure\\ProjetoFinanceiro.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

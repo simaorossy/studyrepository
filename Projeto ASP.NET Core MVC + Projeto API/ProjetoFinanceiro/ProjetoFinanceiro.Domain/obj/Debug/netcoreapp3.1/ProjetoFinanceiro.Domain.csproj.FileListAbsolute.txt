@@ -1,0 +1,20 @@
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.deps.json
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.AssemblyInfo.cs
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\Users\simao\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.deps.json
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.csproj.AssemblyReference.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.AssemblyInfoInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.AssemblyInfo.cs
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.csproj.CoreCompileInputs.cache
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.dll
+C:\DISCO E\Projeto git aulas\studyrepository\Projeto ASP.NET Core MVC + Projeto API\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Domain.pdb
